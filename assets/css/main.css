@@ -3277,6 +3277,11 @@ input, select, textarea {
 				position: relative;
 			}
 
+			/* Contenido de texto entre imágenes */
+			.intercontent {
+				margin-top: 35px;
+			}
+
 			#wrapper section > footer {
 				grid-area: footer;
 				text-align: right;
