@@ -3886,11 +3886,11 @@ input, select, textarea {
 
 	}
 
-	img{
+	.gallery img{
 		transition: all 0.3s ease-in-out;
 	}
 
-	img:hover {
+	.gallery img:hover {
     filter: alpha(opacity=70);
     opacity: .8;
 		transition-timing-function: ease-in-out;
